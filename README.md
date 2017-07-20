@@ -13,8 +13,6 @@
 
 你可以在这里查看入门版的示例项目：[Agora-Android-Voice-Tutorial-1to1](https://github.com/AgoraIO/Agora-Android-Voice-Tutorial-1to1) 
 
-可以在这里查看进阶示例项目：[OpenLive-Voice-Only-Android](https://github.com/AgoraIO/OpenLive-Voice-Only-Android/tree/dev/1.12.0)
-
 你也可以在这里查看 iOS 平台的示例项目：[OpenLive-Voice-Only-iOS](https://github.com/AgoraIO/OpenLive-Voice-Only-iOS)
 
 ## 运行示例程序

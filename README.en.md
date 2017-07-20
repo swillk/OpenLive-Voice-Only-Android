@@ -13,8 +13,6 @@ With this sample app, you can:
 
 A tutorial demo can be found here: [Agora-Android-Voice-Tutorial-1to1](https://github.com/AgoraIO/Agora-Android-Voice-Tutorial-1to1)
 
-Further tutorial demo can be found here: [OpenLive-Voice-Only-Android](https://github.com/AgoraIO/OpenLive-Voice-Only-Android/tree/dev/1.12.0)
-
 You can find demo for iOS here: [OpenLive-Voice-Only-iOS](https://github.com/AgoraIO/OpenLive-Voice-Only-iOS)
 
 
